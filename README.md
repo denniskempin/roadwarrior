@@ -1,5 +1,5 @@
 # RoadWarrior
-Handy little tool to work remotely on large code bases.
+### Handy little tool to work remotely on large code bases.
 
 RoadWarrior wraps around rsync and provides an easy workflow to check out multiple folders from a remote server, then watch those checked out folders for changes and sync them back.
 
